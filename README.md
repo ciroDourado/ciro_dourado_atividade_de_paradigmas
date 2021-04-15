@@ -1,4 +1,4 @@
-# ciro_dourado_atividade_de_paradigmas
+# event_handlers_demo
 Atividade sobre event handlers usando ferramentas web <br />
 Disciplina: Paradigmas de Programação <br />
 Professor: Alfredo Costa Oliveira Junior <br />
